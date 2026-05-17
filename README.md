@@ -43,8 +43,6 @@ I'm not the most active GitHub user yet — most of my projects were built local
 - 📍 Bagac, Bataan, Philippines
 - 🎓 BSIT — Network & Web Application, BPSU
 - 💼 Recent Intern at **JG Worldwide Inc.** (Shopify · WordPress · Webflow · Facebook Ads)
-- 🏆 **Gawad Batang Bayani 2025** — Most Active Governance Awardee
-- 🥇 **DOST Startup Incubation** — 1st Place
 - 📜 **11 certifications** across Microsoft, Cisco, Pearson/Certiport & PMI
 
 <br clear="right"/>

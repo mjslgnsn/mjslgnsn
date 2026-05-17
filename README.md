@@ -46,9 +46,8 @@ I'm a **full-stack web developer and UI designer** from Bataan who builds system
 
 Beyond the code, I serve as **College Student Governor** and former **VP of Alimbukad**, which has taught me that the best technology is the kind that lifts communities. I'm driven by a simple belief: *good design and purposeful engineering can create real-world change.*
 
-- 🏆 **Gawad Batang Bayani 2025** — Most Active Governance Awardee
-- 🥇 **DOST Startup Incubation Program** — 1st Place
-- 📜 **9+ Industry Certifications** — Microsoft, Cisco, Pearson/Certiport, PMI
+
+- 📜 **11 Industry Certifications** — Microsoft, Cisco, Pearson/Certiport, PMI
 - 💼 **Web Dev Intern** — JG Worldwide Inc. (Shopify, WordPress, Webflow)
 - 🌱 Currently finishing my **final year** and gearing up to ship real-world products
 
@@ -81,7 +80,6 @@ Beyond the code, I serve as **College Student Governor** and former **VP of Alim
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)

@@ -119,10 +119,10 @@ Beyond the code, I serve as **College Student Governor** and former **VP of Alim
 <div align="center">
   <h2>✦ &nbsp; GitHub Stats &nbsp; ✦</h2>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mjslgnsn&show_icons=true&theme=tokyonight&border_color=7B68EE&bg_color=0d1117&title_color=7B68EE&icon_color=7B68EE&hide_border=false&rank_icon=github" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mjslgnsn&layout=compact&theme=tokyonight&border_color=7B68EE&bg_color=0d1117&title_color=7B68EE&hide_border=false" height="180" alt="Top Languages" />
-
+  <!-- GitHub Stats — uses a more reliable alternative host -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mjslgnsn&show_icons=true&theme=tokyonight&border_color=7B68EE&bg_color=0d1117&title_color=7B68EE&icon_color=7B68EE&hide_border=false&rank_icon=github" height="180" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mjslgnsn&layout=compact&theme=tokyonight&border_color=7B68EE&bg_color=0d1117&title_color=7B68EE&hide_border=false" height="180" alt="Top Languages" />
   <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjslgnsn&theme=tokyonight&border=7B68EE&background=0d1117&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" alt="GitHub Streak" />

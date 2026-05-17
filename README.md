@@ -32,18 +32,25 @@
   <h2>✦ &nbsp; About Me &nbsp; ✦</h2>
 </div>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
+```
+ Name     :  Mark Justie "MJ" Lagnason
+ Location :  Bagac, Bataan, Philippines
+ Course   :  BSIT — Network & Web Application (4th Year)
+ School   :  Bataan Peninsula State University
+ Email    :  mjslagnason@gmail.com
+```
 
-Hey, I'm **MJ** — a 4th-year BSIT student at **Bataan Peninsula State University**, majoring in Network and Web Application. I build web systems using PHP, MySQL, and Tailwind, and I care a lot about making them actually useful to real people.
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif" />
 
-Outside of code, I served as **College Student Governor** and **VP of Alimbukad**. Those roles taught me more about communication, accountability, and follow-through than any class has.
+I'm a **full-stack web developer and UI designer** from Bataan who builds systems that don't just work — they *mean* something. Whether it's a community support platform, a network monitoring dashboard, or a student governance tool, I care about the people behind the screen.
 
-I'm not the most active GitHub user yet — most of my projects were built locally for school — but I'm working on changing that by pushing more of my work here.
+Beyond the code, I serve as **College Student Governor** and former **VP of Alimbukad**, which has taught me that the best technology is the kind that lifts communities. I'm driven by a simple belief: *good design and purposeful engineering can create real-world change.*
 
-- 📍 Bagac, Bataan, Philippines
-- 🎓 BSIT — Network & Web Application, BPSU
-- 💼 Recent Intern at **JG Worldwide Inc.** (Shopify · WordPress · Webflow · Facebook Ads)
-- 📜 **11 certifications** across Microsoft, Cisco, Pearson/Certiport & PMI
+- 🏆 **Gawad Batang Bayani 2025** — Most Active Governance Awardee
+- 🥇 **DOST Startup Incubation Program** — 1st Place
+- 📜 **9+ Industry Certifications** — Microsoft, Cisco, Pearson/Certiport, PMI
+- 💼 **Web Dev Intern** — JG Worldwide Inc. (Shopify, WordPress, Webflow)
+- 🌱 Currently finishing my **final year** and gearing up to ship real-world products
 
 <br clear="right"/>
 

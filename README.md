@@ -1,341 +1,237 @@
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║         MJ LAGNASON — GitHub Profile README                  ║
-  ║         Customize placeholders marked with [TODO]            ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
 <!-- ============================================================
-     HERO / ANIMATED BANNER
-     Replace the capsule-render color with any hex you prefer.
-     Current: #7B68EE (matches purple portfolio hue)
+     MJ LAGNASON — GitHub Profile README
+     To activate: create a repo named "mjslgnsn" and add this file.
      ============================================================ -->
+
+<!-- HERO BANNER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=200&section=header&text=MJ%20Lagnason&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Developer%20%7C%20Designer%20%7C%20Leader&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=190&section=header&text=MJ%20Lagnason&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Developer%20%C2%B7%20Designer%20%C2%B7%20Student%20Leader&descAlignY=56&descSize=17&animation=fadeIn" width="100%" />
 
-<!-- Typing animation — edit the lines[] values to change what cycles through -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=20&pause=1200&color=7B68EE&center=true&vCenter=true&random=false&width=600&lines=3rd+Year+Network+%26+Web+App+Student;Full+Stack+Web+Developer;UI+%2F+UX+Designer;College+Student+Governor;AI+%26+Community+Tech+Enthusiast" alt="Typing SVG" />
-</a>
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Unbounded&weight=600&size=18&pause=1200&color=7B68EE&center=true&vCenter=true&random=false&width=580&lines=4th+Year+BSIT+%E2%80%94+Network+%26+Web+Application;PHP+%2B+MySQL+Web+Developer;UI+Designer+%7C+Figma+%2B+Tailwind;College+Student+Governor+%40+BPSU;Certified+by+Microsoft+%C2%B7+Cisco+%C2%B7+PMI" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile views + followers badges -->
 <img src="https://komarev.com/ghpvc/?username=mjslgnsn&style=for-the-badge&color=7B68EE&label=PROFILE+VIEWS" alt="profile views" />
 &nbsp;
 <a href="https://github.com/mjslgnsn?tab=followers">
-  <img src="https://img.shields.io/github/followers/mjslgnsn?style=for-the-badge&color=7B68EE&labelColor=0d1117&label=FOLLOWERS" alt="followers" />
+  <img src="https://img.shields.io/github/followers/mjslgnsn?style=for-the-badge&color=7B68EE&labelColor=0d1117&label=FOLLOWERS" />
 </a>
 &nbsp;
-<a href="https://github.com/mjslgnsn?tab=stars">
-  <img src="https://img.shields.io/github/stars/mjslgnsn?style=for-the-badge&color=7B68EE&labelColor=0d1117&label=STARS+EARNED" alt="stars" />
+<a href="https://github.com/mjslgnsn?tab=repositories">
+  <img src="https://img.shields.io/badge/PUBLIC%20REPOS-5-7B68EE?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 </div>
 
 ---
 
-<!-- ============================================================
-     ABOUT ME
-     ============================================================ -->
+<!-- ABOUT ME -->
 <div align="center">
   <h2>✦ &nbsp; About Me &nbsp; ✦</h2>
 </div>
 
-```
- Name     :  Mark Justie "MJ" Lagnason
- Location :  Bagac, Bataan, Philippines
- Course   :  BSIT — Network & Web Application (4th Year)
- School   :  Bataan Peninsula State University
- Email    :  mjslagnason@gmail.com
-```
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif" />
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding gif" />
+Hey, I'm **MJ** — a 4th-year BSIT student at **Bataan Peninsula State University**, majoring in Network and Web Application. I build web systems using PHP, MySQL, and Tailwind, and I care a lot about making them actually useful to real people.
 
-I'm a **full-stack web developer and UI designer** from Bataan who builds systems that don't just work — they *mean* something. Whether it's a community support platform, a network monitoring dashboard, or a student governance tool, I care about the people behind the screen.
+Outside of code, I served as **College Student Governor** and **VP of Alimbukad**. Those roles taught me more about communication, accountability, and follow-through than any class has.
 
-Beyond the code, I serve as **College Student Governor** and former **VP of Alimbukad**, which has taught me that the best technology is the kind that lifts communities. I'm driven by a simple belief: *good design and purposeful engineering can create real-world change.*
+I'm not the most active GitHub user yet — most of my projects were built locally for school — but I'm working on changing that by pushing more of my work here.
 
+- 📍 Bagac, Bataan, Philippines
+- 🎓 BSIT — Network & Web Application, BPSU
+- 💼 Recent Intern at **JG Worldwide Inc.** (Shopify · WordPress · Webflow · Facebook Ads)
 - 🏆 **Gawad Batang Bayani 2025** — Most Active Governance Awardee
-- 🥇 **DOST Startup Incubation Program** — 1st Place
-- 📜 **9+ Industry Certifications** — Microsoft, Cisco, Pearson/Certiport, PMI
-- 💼 **Web Dev Intern** — JG Worldwide Inc. (Shopify, WordPress, Webflow)
-- 🌱 Currently finishing my **final year** and gearing up to ship real-world products
+- 🥇 **DOST Startup Incubation** — 1st Place
+- 📜 **11 certifications** across Microsoft, Cisco, Pearson/Certiport & PMI
 
 <br clear="right"/>
 
 ---
 
-<!-- ============================================================
-     TECH STACK
-     ============================================================ -->
+<!-- TECH STACK -->
 <div align="center">
   <h2>✦ &nbsp; Tech Stack &nbsp; ✦</h2>
 </div>
 
-**Frontend**
+**Languages & Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![AJAX](https://img.shields.io/badge/AJAX-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 **Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=for-the-badge&logo=shopify&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-**Other Skills**
-
-![UI/UX](https://img.shields.io/badge/UI%2FUX_Design-7B68EE?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![AI Prompting](https://img.shields.io/badge/AI_Prompt_Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-2D3748?style=for-the-badge&logo=diagrams.net&logoColor=white)
-![Leadership](https://img.shields.io/badge/Student_Leadership-F6AD55?style=for-the-badge&logo=meetup&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-2B6CB0?style=for-the-badge&logo=cisco&logoColor=white)
-
 ---
 
-<!-- ============================================================
-     GITHUB STATS
-     Replace "mjslgnsn" if you ever rename your account.
-     Themes: tokyonight | radical | merko | gruvbox | onedark
-     ============================================================ -->
+<!-- GITHUB STATS -->
 <div align="center">
   <h2>✦ &nbsp; GitHub Stats &nbsp; ✦</h2>
 
-  <!-- GitHub Stats — uses a more reliable alternative host -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mjslgnsn&show_icons=true&theme=tokyonight&border_color=7B68EE&bg_color=0d1117&title_color=7B68EE&icon_color=7B68EE&hide_border=false&rank_icon=github" height="180" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mjslgnsn&layout=compact&theme=tokyonight&border_color=7B68EE&bg_color=0d1117&title_color=7B68EE&hide_border=false" height="180" alt="Top Languages" />
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mjslgnsn&theme=tokyonight&border=7B68EE&background=0d1117&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mjslgnsn&show_icons=true&theme=tokyonight&border_color=7B68EE&bg_color=0d1117&title_color=7B68EE&icon_color=7B68EE&hide_border=false&count_private=true" height="170" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mjslgnsn&layout=compact&theme=tokyonight&border_color=7B68EE&bg_color=0d1117&title_color=7B68EE&hide_border=false" height="170" alt="Top Languages" />
 
   <br/><br/>
 
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mjslgnsn&theme=tokyonight&no-frame=true&column=7&margin-w=6" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=mjslgnsn&theme=tokyonight&border=7B68EE&background=0d1117&ring=7B68EE&fire=FF6B6B&currStreakLabel=7B68EE" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjslgnsn&bg_color=0d1117&color=7B68EE&line=7B68EE&point=ffffff&area=true&hide_border=false&border_color=7B68EE" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mjslgnsn&bg_color=0d1117&color=7B68EE&line=7B68EE&point=ffffff&area=true&hide_border=false&border_color=7B68EE" alt="Activity Graph" width="97%" />
 
 </div>
 
 ---
 
-<!-- ============================================================
-     FEATURED PROJECTS
-     Update href links once repos are published / renamed.
-     ============================================================ -->
+<!-- PROJECTS -->
 <div align="center">
-  <h2>✦ &nbsp; Featured Projects &nbsp; ✦</h2>
+  <h2>✦ &nbsp; Projects &nbsp; ✦</h2>
 </div>
 
-| # | Project | Description | Stack | Status |
+| # | Project | What it does | Stack | Status |
 |---|---------|-------------|-------|--------|
-| 01 | **[Stronger Together: Digital Empowerment Hub](https://github.com/mjslgnsn)** | Solo parent support system powered by AI — connecting community resources, scheduling, and digital services in one platform. | PHP · MySQL · AJAX · Cloud DB · API | ![Active](https://img.shields.io/badge/-Active-7B68EE?style=flat-square) |
-| 02 | **[Velour E-Commerce Management System](https://github.com/mjslgnsn/Velour-E-Commerce-Management-System)** | Full e-commerce backend for small businesses — product management, orders, and seller workflows. | PHP · MySQL · Tailwind · AJAX | ![Active](https://img.shields.io/badge/-Active-7B68EE?style=flat-square) |
-| 03 | **[Appoint — Booking System](https://github.com/mjslgnsn/Appointment-Booking-System)** | Intuitive appointment scheduling platform for businesses and clients, with calendar management and notifications. | PHP · MySQL · Tailwind · AJAX | ![In Dev](https://img.shields.io/badge/-In%20Dev-F6AD55?style=flat-square) |
-| 04 | **[BrgyNet — Network Monitoring Dashboard](https://github.com/mjslgnsn/web-based-Barangay-Network-Monitoring-Dashboard)** | Web dashboard for monitoring devices on a local barangay network — real-time charts and device management. | PHP · MySQL · Chart.js · Bootstrap | ![Active](https://img.shields.io/badge/-Active-7B68EE?style=flat-square) |
-| 05 | **[TaskFlow — Project Management System](https://github.com/mjslgnsn/TaskFlow---Project-Management-System)** | Clean, efficient task tracker for individuals and teams to manage projects and workflow progression. | PHP · MySQL · JS | ![In Dev](https://img.shields.io/badge/-In%20Dev-F6AD55?style=flat-square) |
-| 06 | **[Justie Portfolio](https://justie-portfolio.netlify.app/)** | Responsive, animated personal portfolio with custom cursor, scroll animations, and 2K/4K layout optimization. | HTML · CSS · JavaScript | ![Live](https://img.shields.io/badge/-Live-38A169?style=flat-square) |
-
-<div align="center">
-  <a href="https://github.com/mjslgnsn?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-%237B68EE?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+| 01 | **[Stronger Together — Solo Parent Hub](https://github.com/mjslgnsn)** | Web platform connecting solo parents to community resources and digital services | PHP · MySQL · AJAX · Cloud DB | ![Active](https://img.shields.io/badge/-Active-7B68EE?style=flat-square) |
+| 02 | **[Velour — E-Commerce System](https://github.com/mjslgnsn/Velour-E-Commerce-Management-System)** | Manages products, orders, and seller workflows for small businesses | PHP · MySQL · Tailwind · AJAX | ![Public](https://img.shields.io/badge/-Public-38A169?style=flat-square) |
+| 03 | **[Appoint — Booking System](https://github.com/mjslgnsn/Appointment-Booking-System)** | Scheduling platform for businesses and their clients | PHP · MySQL · Tailwind · AJAX | ![Public](https://img.shields.io/badge/-Public-38A169?style=flat-square) |
+| 04 | **[BrgyNet — Network Dashboard](https://github.com/mjslgnsn/web-based-Barangay-Network-Monitoring-Dashboard)** | Monitors devices on a local barangay network with real-time charts | PHP · MySQL · Chart.js | ![Public](https://img.shields.io/badge/-Public-38A169?style=flat-square) |
+| 05 | **[TaskFlow — Project Manager](https://github.com/mjslgnsn/TaskFlow---Project-Management-System)** | Simple task and workflow tracker for individuals and teams | PHP · MySQL · JS | ![Public](https://img.shields.io/badge/-Public-38A169?style=flat-square) |
+| 06 | **[Justie — Portfolio](https://justie-portfolio.netlify.app/)** | Personal portfolio with custom cursor, scroll animations, 2K/4K layouts | HTML · CSS · JS | ![Live](https://img.shields.io/badge/-Live-7B68EE?style=flat-square) |
 
 ---
 
-<!-- ============================================================
-     CERTIFICATIONS
-     ============================================================ -->
+<!-- CERTIFICATIONS -->
 <div align="center">
-  <h2>✦ &nbsp; Licenses &amp; Certifications &nbsp; ✦</h2>
+  <h2>✦ &nbsp; Certifications &nbsp; ✦</h2>
 </div>
 
 <div align="center">
 
-![Cisco](https://img.shields.io/badge/Cisco-Cyber_Threat_Management-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Pearson](https://img.shields.io/badge/Pearson-IC3_Digital_Literacy_GS6-003087?style=for-the-badge&logo=pearson&logoColor=white)
-![Certiport](https://img.shields.io/badge/Certiport-IT_Specialist_Cybersecurity-FF6600?style=for-the-badge&logo=certiport&logoColor=white)
-![Certiport](https://img.shields.io/badge/Certiport-IT_Specialist_Software_Dev-FF6600?style=for-the-badge&logo=certiport&logoColor=white)
-![Certiport](https://img.shields.io/badge/Certiport-IT_Specialist_Network_Security-FF6600?style=for-the-badge&logo=certiport&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-MOS_Associate_365-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-MOS_Excel_Associate-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-MOS_PowerPoint_Associate-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-MOS_Word_Associate-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PMI](https://img.shields.io/badge/PMI-Project_Management_Ready-003087?style=for-the-badge&logo=pmi&logoColor=white)
+![](https://img.shields.io/badge/Cisco-Cyber_Threat_Management_·_Oct_2024-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![](https://img.shields.io/badge/Pearson-IC3_Digital_Literacy_GS6_·_May_2024-003087?style=flat-square)
+![](https://img.shields.io/badge/Certiport-IT_Specialist_Cybersecurity_·_Dec_2024-FF6600?style=flat-square)
+![](https://img.shields.io/badge/Certiport-IT_Specialist_Software_Dev_·_Apr_2026-FF6600?style=flat-square)
+![](https://img.shields.io/badge/Certiport-IT_Specialist_Device_Config_·_Apr_2025-FF6600?style=flat-square)
+![](https://img.shields.io/badge/Certiport-IT_Specialist_Network_Security_·_May_2025-FF6600?style=flat-square)
+![](https://img.shields.io/badge/Microsoft-MOS_Associate_365_·_Dec_2025-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Microsoft-MOS_Excel_Associate_·_Nov_2025-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![](https://img.shields.io/badge/Microsoft-MOS_PowerPoint_·_Oct_2025-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+![](https://img.shields.io/badge/Microsoft-MOS_Word_Associate_·_Oct_2025-2B579A?style=flat-square&logo=microsoft-word&logoColor=white)
+![](https://img.shields.io/badge/PMI-Project_Management_Ready_·_Dec_2024-003087?style=flat-square)
 
 </div>
 
 ---
 
-<!-- ============================================================
-     LEADERSHIP & COMMUNITY IMPACT
-     ============================================================ -->
+<!-- EXPERIENCE & LEADERSHIP -->
 <div align="center">
-  <h2>✦ &nbsp; Leadership &amp; Community Impact &nbsp; ✦</h2>
+  <h2>✦ &nbsp; Experience &amp; Leadership &nbsp; ✦</h2>
 </div>
 
-<table align="center">
+<table align="center" width="100%">
 <tr>
-  <td width="50%" valign="top">
+<td width="50%" valign="top">
 
-**🏛️ College Student Governor**
-_College of Computer Studies — BPSU_
+**💼 Web Developer Intern — JG Worldwide Inc.** *(2026)*
+Built and maintained e-commerce sites on Shopify, WordPress, and Webflow. Assisted with Facebook Ads campaigns and production shoots.
 
-Led the student government in planning and executing academic, cultural, and advocacy programs. Oversaw multi-team project coordination, decision-making pipelines, and community outreach — all while carrying a full academic load.
-
+**🏛️ College Student Governor — CCS, BPSU** *(2025)*
+Led student government operations: programs, budgets, inter-college coordination.
 > 🏆 Gawad Batang Bayani 2025 — *Most Active Governance Awardee*
 
-  </td>
-  <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-**⚡ Vice President — Alimbukad**
-_Gender-Based Student Organization_
+**⚡ Vice President — Alimbukad** *(2024)*
+Gender-based org. Ran events, managed teams, led advocacy campaigns.
 
-Led gender equality advocacy initiatives and organized campus-wide events. Managed teams, streamlined operations, and championed inclusive community engagement at every level.
+**📋 Board Member — CCS Student Gov** *(2023)*
+Coordinated events, documentation, and digital materials for the college.
 
-  </td>
-</tr>
-<tr>
-  <td width="50%" valign="top">
+**🥇 DOST Startup Incubation — 1st Place** *(2025)*
+Pitched a validated startup concept to industry experts using lean methodology.
 
-**🥇 DOST Startup Incubation Program**
-_1st Place — Innovation & Entrepreneurship_
-
-Developed and validated a startup concept through the DOST program, applying lean methodology, business model design, and project pitching to a panel of industry experts.
-
-  </td>
-  <td width="50%" valign="top">
-
-**🌿 Community-Driven Tech Projects**
-
-Built systems specifically designed for underserved communities — a solo parent digital empowerment hub, a barangay-level network monitoring tool, and platforms for indigenous and mental health advocacy.
-
-  </td>
+</td>
 </tr>
 </table>
 
 ---
 
-<!-- ============================================================
-     CURRENT FOCUS
-     ============================================================ -->
+<!-- WHAT I'M WORKING ON -->
 <div align="center">
-  <h2>✦ &nbsp; Current Focus &nbsp; ✦</h2>
+  <h2>✦ &nbsp; Right Now &nbsp; ✦</h2>
 </div>
 
 ```javascript
 const mj = {
-  currentlyBuilding : ["AI-powered community platforms", "Full-stack web systems"],
-  currentlyLearning : ["React ecosystem", "Cloud deployment", "API design patterns"],
-  openTo           : ["Freelance projects", "Open-source contributions", "Collaborations"],
-  goals2026        : [
-    "Graduate with real-world deployed products",
-    "Land a full-stack or front-end role",
-    "Launch Eco-Lokal as a live platform",
-    "Contribute to an open-source project",
-    "Grow my GitHub to 10+ public repos",
+  status          : "Finishing 4th year · Actively pushing more projects to GitHub",
+  primaryStack    : ["PHP", "MySQL", "Tailwind CSS", "JavaScript"],
+  currentlyUsing  : ["Shopify", "WordPress", "Webflow"],  // from internship
+  learning        : ["React basics", "REST APIs", "Git workflow best practices"],
+  openTo          : ["Freelance web projects", "Entry-level dev roles", "Collabs"],
+  goals           : [
+    "Graduate and land a real dev job",
+    "Push all school projects to GitHub",
+    "Build one fully deployed public product",
   ],
-  funFact          : "I went from freshman board member to College Governor in 2 years 🚀"
+  funFact : "Board member → VP → College Governor. All in 3 years."
 };
 ```
 
 ---
 
-<!-- ============================================================
-     SNAKE CONTRIBUTION GRAPH
-     This requires setting up a GitHub Action in your repo.
-     Instructions: https://github.com/Platane/snk
-     Once set up, replace "mjslgnsn" with your username.
-     ============================================================ -->
+<!-- DEV QUOTE -->
 <div align="center">
-  <h2>✦ &nbsp; Contribution Snake &nbsp; ✦</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mjslgnsn/mjslgnsn/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mjslgnsn/mjslgnsn/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/mjslgnsn/mjslgnsn/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-  <!-- [TODO] Set up the Platane/snk GitHub Action in your mjslgnsn/mjslgnsn repo to generate the snake SVG automatically -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="82%" />
 </div>
 
 ---
 
-<!-- ============================================================
-     RANDOM DEV QUOTE
-     ============================================================ -->
+<!-- CONNECT -->
 <div align="center">
-  <h2>✦ &nbsp; Dev Quote &nbsp; ✦</h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote" width="80%" />
-</div>
+  <h2>✦ &nbsp; Let's Connect &nbsp; ✦</h2>
 
----
-
-<!-- ============================================================
-     CONNECT WITH ME
-     Replace [TODO] items with your actual links/email.
-     ============================================================ -->
-<div align="center">
-  <h2>✦ &nbsp; Connect With Me &nbsp; ✦</h2>
-
-  <a href="https://justie-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://justie-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7B68EE?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/mjslagnason" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mjslgnsn" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://linkedin.com/in/mjslagnason">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:mjslagnason@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/mj_lgnsn/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/mj_lgnsn/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://www.facebook.com/mj.lagnason.2024" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <a href="https://www.facebook.com/mj.lagnason.2024">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
   <br/><br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer&fontSize=14&fontColor=ffffff&text=Building%20with%20purpose.%20Shipping%20with%20heart.&fontAlignY=65&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=110&section=footer&text=Building%20real%20things%20for%20real%20people.&fontSize=14&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%" />
 
 </div>
-
-<!--
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  SETUP CHECKLIST                                             ║
-  ║  [ ] Create a repo named "mjslgnsn" (same as your username)  ║
-  ║  [ ] Add this README.md to that repo                         ║
-  ║  [ ] Set up Platane/snk action for the snake animation       ║
-  ║  [ ] Customize colors by replacing 7B68EE with any hex       ║
-  ║  [ ] Update project links once repos are live                ║
-  ╚══════════════════════════════════════════════════════════════╝
--->

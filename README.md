@@ -40,7 +40,7 @@
  Email    :  mjslagnason@gmail.com
 ```
 
-<img align="right" src="https://scontent.fmnl14-2.fna.fbcdn.net/v/t39.30808-6/490126880_4067320926887270_8985816069177478503_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFPDyAXF79kz-t2o9uaTABnZF0i5vZU33lkXSLm9lTfeWdZ6UWdSi9CbGfCLwqioo-bUWnykoWA-_jNr77mIDrK&_nc_ohc=3fB8ZMoQiMQQ7kNvwGMcUhW&_nc_oc=AdoISN1TTed0JLJAdwIyYl8-NwvPuP6DyB8A3wcEK2uFHbdbXYu3VExUEU3lOZZUc1Q&_nc_zt=23&_nc_ht=scontent.fmnl14-2.fna&_nc_gid=OsXxJw3rLhbDnkQ6hqN0Yw&_nc_ss=7b2a8&oh=00_Af5xrfaWnPLxJc5Nn_Uh3neYRgsieqzT7NAYgo42XyELkA&oe=6A0F989F" width="220" alt="coding gif" />
+<img align="right" src="https://scontent.fmnl14-1.fna.fbcdn.net/v/t39.30808-6/486837775_4052844688334894_84169847471586473_n.jpg?stp=dst-jpg_tt6&cstp=mx955x960&ctp=s955x960&_nc_cat=109&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeF1euzEzmNalb8ErqUVCKybE7IGsJVnQooTsgawlWdCiubGtKXkKnBAsaEkbuog-ed94neJ4qyvD4G6xh_LAnKJ&_nc_ohc=gEOmsp2PFgAQ7kNvwHiV7k-&_nc_oc=Adq8XbeL27ZmQGAyQwXr9illsLWnbUd1XsQKNscXNQEQ6yXVflVzcABk1lDmnljlki0&_nc_zt=23&_nc_ht=scontent.fmnl14-1.fna&_nc_gid=5X1dIP-m_vuNuvkTWcJkJQ&_nc_ss=7b2a8&oh=00_Af8fOsuICu6H70FBwnE-FakOxd3kIlpF4BDVRgz38jyPlg&oe=6A2E86A9" width="220" alt="coding gif" />
 
 I'm a **full-stack web developer and UI designer** from Bataan who builds systems that don't just work — they *mean* something. Whether it's a community support platform, a network monitoring dashboard, or a student governance tool, I care about the people behind the screen.
 
